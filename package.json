@@ -1,0 +1,8 @@
+{
+  "name": "byoc-postgres-dump",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample 10 of the bring-your-code test matrix: a Node API shipped with a Postgres dump of its existing data.",
+  "scripts": { "start": "node src/server.js" },
+  "dependencies": { "express": "^4.21.0", "pg": "^8.13.0" }
+}
